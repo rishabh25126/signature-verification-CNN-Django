@@ -1,4 +1,4 @@
-# SignatureVerification - Axis Bank AI Challenge
+# SignatureVerification
 A Web Application to detect whether a given signature is real or forged.
 
 ### Code Requirements
